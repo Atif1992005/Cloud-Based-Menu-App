@@ -2,9 +2,7 @@
 
 ### Smart Restaurant Menu & Billing System
 
-\<p align="center">
-&#x20; A cloud-based restaurant management application designed to make digital menu browsing, ordering, and billing easier and more convenient.
-\</p>
+\<p align="center"> A cloud-based restaurant management application designed to make digital menu browsing, ordering, and billing easier and more convenient. \</p>
 
 ---
 
@@ -151,4 +149,10 @@ This project is developed for academic and educational purposes.
 
 ---
 
-\<p align="center">   \*\*☁️ Cloud-Based Menu App\*\*   \<br/>   \*Making restaurant menu access smarter, simpler, and more accessible.\* \</p>
+\<p align="center">
+
+**☁️ Cloud-Based Menu App**
+
+*Making restaurant menu access smarter, simpler, and more accessible.*
+
+\</p>
